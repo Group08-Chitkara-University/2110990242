@@ -13,7 +13,7 @@ int main()
 {
     int c , d;
     cin>> c >> d;
-//last comment
+//last comment is added to this file
     int answer = power(c,d);
     cout << " answer is " << answer << endl;
     return 0;
